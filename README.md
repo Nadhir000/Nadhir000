@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Mobile+App+Developer;Flutter+%26+Dart+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Mobile+App+Developer;Flutter+%26+Dart+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
@@ -37,7 +37,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadhir000&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nadhir000&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Nadhir000&theme=radical&hide_border=true)
 
 </div>
 
